@@ -1,0 +1,22 @@
+
+
+#contenido{
+    font-size: 27px;
+}
+
+#nosotros{
+    background-color: var(--color2);
+    color: var(--color-blanco);
+}
+
+#ctn1{
+    background-color: rgba(0, 0, 0, 0.952);
+    border-radius: 3%;
+}
+
+#n1{
+    padding-bottom: 25px;
+    margin-top: -35px;
+}
+
+

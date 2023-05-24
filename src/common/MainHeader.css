@@ -1,0 +1,47 @@
+.red{
+ 
+    margin-left: auto ;
+    margin-right:auto ;
+  
+   
+  }
+  .button{
+    background: #242879;
+    color: #ffff;
+    border-radius: 50px;
+    padding: 13px 31px;
+    font-size: 18px;
+      font-weight: 400;
+      line-height: 24px;
+  
+  }
+  .button:hover{
+    box-shadow: 0px 25px 45px 0px rgb(17 19 70 / 26%);
+  
+    
+  }
+  .centro{
+    font-size: 17px;
+    font-weight: 400;
+    text-transform: capitalize;
+    line-height: 27px;
+    letter-spacing: -.32px;
+    color: #0d102b;
+        padding: 30px 20px;
+        text-decoration: none;
+  }
+
+  .nav-link{
+      color: #0d102b;
+  }
+
+  .nav-link:hover{
+      color: #0d102b;
+  }
+  .cont{
+      background-color: #ebe9eb;
+  }
+
+
+  
+

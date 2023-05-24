@@ -1,0 +1,35 @@
+.txt{
+    line-height: 48px;
+    box-sizing: border-box;
+    font-family: 'Jost',sans-serif;
+    font-weight: 500;
+    text-transform: capitalize;
+    font-size: 42px;
+    letter-spacing: -.04px;
+    text-align: center;
+    margin-top: -60px;
+    margin-bottom: 20px;
+}
+
+.txt{
+    line-height: 48px;
+    box-sizing: border-box;
+    font-family: 'Jost',sans-serif;
+    font-weight: 500;
+    text-transform: capitalize;
+    font-size: 42px;
+    letter-spacing: -.04px;
+    text-align: left;
+    margin-top: -60px;
+    margin-bottom: 20px;
+}
+
+
+.color{
+    background-color: #ebe9eb;
+}
+
+.bc{
+    color: #fb5850;
+}
+

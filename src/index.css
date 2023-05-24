@@ -1,0 +1,37 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,200;0,300;0,400;0,500;0,600;1,200;1,300;1,400;1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap');
+:root{
+  --color1: #21A2A4;
+  --color2: #ff0000ec;
+  --color3: #FAED11;
+  --color4: #4C6A70;
+  --color5: #FF914D;
+  --color-blanco: #FFF;
+  --color-negro: #000000;
+  --color-gris-claro: #CCCCCC;
+  --color-gris-oscuro: #555555;
+}
+body{
+  font-family: 'Outfit', sans-serif;
+}
+h1{
+  font-size: 48px;
+  font-weight: 900;
+  letter-spacing: -3px;
+}
+h2{
+  font-size: 40px;
+  font-weight: 200;
+  letter-spacing: -2px;
+  text-transform: lowercase;
+}
+h3{
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.padded{
+  padding-top: 90px;
+  padding-bottom: 90px;
+}

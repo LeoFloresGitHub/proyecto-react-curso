@@ -1,0 +1,29 @@
+#cards-productos .card{
+    text-align: center;
+    height: 100%;
+}
+#cards-productos .card img{
+    padding: 25px;
+}
+.precio-lista{
+    text-decoration: line-through;
+    font-size: 0.9em;
+    color: var(--color-gris-oscuro);
+}
+.sin-oferta{
+    display: none;
+}
+.con-oferta{
+    position: absolute;
+    padding: 5px 10px;
+    color: var(--color-blanco);
+    background-color: var(--color2);
+}
+.btnQuickView, .btnAgregarCarrito{
+    cursor: pointer;
+    margin-left: 10px;
+}
+.chico{
+    padding-left:  30px;
+}
+

@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;700&display=swap');
+
+#bkm{
+    font-family: "Jost",Sans-serif;
+    font-size: 60px;
+    font-weight: 500;
+    text-transform: capitalize;
+    line-height: 72px;
+    color: #060815;
+    box-sizing: border-box;
+    width: 900px;
+    padding-left: 110px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#bkm2{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 600;
+    font-size: 60px;
+    margin-left:-100px;
+    width: 400px;
+    padding-bottom: 40px;
+}
+
+.col{
+    font-weight: 300;
+    font-size: 26px;
+}
+
+.button{
+    background: #242879;
+    color: #ffff;
+    border-radius: 50px;
+    padding: 13px 31px;
+    font-size: 18px;
+      font-weight: 400;
+      line-height: 24px;
+      border:thin
+     
+  
+  }
+  .button:hover{
+    box-shadow: 0px 25px 45px 0px rgb(17 19 70 / 26%);
+  
+    
+  }
+  .chic{
+    color: #fb5850;
+    font-size: 17px;
+    text-transform: uppercase;
+    line-height: 15px;
+    letter-spacing: 1.76px;
+  }
+
+  .chit{
+    font-size: 19px;
+    line-height: 28px;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: 'Outfit',sans-serif;
+    font-weight: 400;
+    text-transform: none;
+    color: #0d102b;
+    padding-bottom: 30px;
+    width: 650px;
+    padding-left: 270px;
+  }
+
+  .colo{
+  background-color: #ebe9eb;
+  }
+  .cj{
+    background-color: #ffff;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    width: 1800px;
+    margin-top: -70px;
+    margin-bottom: -50px;
+    border-radius: 37px;
+  }
+
+  .opa{
+    opacity: 55%;
+  }
+
+  
+
+  
+  
